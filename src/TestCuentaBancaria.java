@@ -8,7 +8,7 @@ public class TestCuentaBancaria {
         System.out.println(cuentaCarlos);
         cuentaCarlos.retirar(200);
         System.out.println(cuentaCarlos);
-        cuentaMaria.ingresar(200);
+        cuentaMaria.ingresar(300);
         System.out.println(cuentaMaria);
     }
 }
